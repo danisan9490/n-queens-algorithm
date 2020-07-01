@@ -1,0 +1,20 @@
+{
+  "name": "n-queens-algorithm-TDD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danisan9490/n-queens-algorithm-TDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danisan9490/n-queens-algorithm-TDD/issues"
+  },
+  "homepage": "https://github.com/danisan9490/n-queens-algorithm-TDD#readme"
+}
