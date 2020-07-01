@@ -1,11 +1,12 @@
 # n-queens-algorithm
 
-<img src="img/n-queens.png" width="500">
+<img src="img/n-queens.png" width="300">
 
 ## Built With
 
 * [Javascript](https://www.javascript.com)
 * [Chai](https://www.npmjs.com/package/chai)
+* [Mocha](https://www.npmjs.com/package/mocha)
 
 ## What is n-queens?
 The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal.
@@ -43,7 +44,7 @@ Starting with another new test, the cycle is then repeated to push forward the f
 
 * [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development)
 
-<img src="img/TDD.png" width="500">
+<img src="img/TDD.png" width="300">
 
 
 ## Author
